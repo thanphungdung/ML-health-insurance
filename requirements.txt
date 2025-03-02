@@ -2,3 +2,5 @@ streamlit
 joblib
 pandas
 scikit-learn  # If your model uses scikit-learn
+xgboost
+numpy
